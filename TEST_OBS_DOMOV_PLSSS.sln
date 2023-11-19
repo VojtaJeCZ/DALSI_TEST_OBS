@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TEST_OBS_DOMOV_PLSSS", "TEST_OBS_DOMOV_PLSSS.csproj", "{3895A491-B5E4-4DCF-A41A-B8029839820D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3895A491-B5E4-4DCF-A41A-B8029839820D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3895A491-B5E4-4DCF-A41A-B8029839820D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3895A491-B5E4-4DCF-A41A-B8029839820D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3895A491-B5E4-4DCF-A41A-B8029839820D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FF78EC8C-71B5-4E8C-A93B-557E9C6E7958}
+	EndGlobalSection
+EndGlobal
